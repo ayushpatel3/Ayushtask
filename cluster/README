@@ -1,0 +1,9 @@
+E-Commerce Customer Segmentation using K-Means Clustering
+Project Overview
+
+This project performs customer segmentation on an e-commerce dataset using the K-Means clustering algorithm. The goal is to classify customers into two groups:
+
+Regular Customers
+VIP Customers
+
+Customer behavior is analyzed using purchase-related features, and clustering is applied to identify similar customer groups.
